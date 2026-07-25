@@ -27,3 +27,57 @@ Cloud & DevOps Engineer
 </p>
 
 ---
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
+
+```yaml
+Name      : Harshal Sopan Gite
+Role      : Cloud & DevOps Engineer
+Location  : Nashik, Maharashtra, India
+Email     : harshalgite@outlook.com
+
+Learning  :
+  - AWS Cloud
+  - Docker
+  - Kubernetes
+  - Terraform
+  - Jenkins
+
+Working With :
+  - Linux
+  - Git
+  - GitHub
+  - Bash
+
+Goal :
+  Become a Professional DevOps Engineer 🚀
+```
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,terraform,jenkins,git,github,bash,vscode,nginx,mysql"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harshal-gite&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshal-gite&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal-gite&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
