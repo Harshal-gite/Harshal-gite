@@ -1,28 +1,24 @@
-<!-- ======================= HEADER ======================= -->
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=HARSHAL%20SOPAN%20GITE&fontSize=50&fontColor=00F7FF&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=HARSHAL%20SOPAN%20GITE&fontSize=50&fontColor=00F7FF&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<img src="images/profile.jpg" width="250" alt="Harshal Gite"/>
+  <img src="images/profile.jpg" width="220" alt="Harshal Gite"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Harshal Sopan Gite</h1>
 
 <h3 align="center">
-Cloud & DevOps Engineer • AWS • Docker • Kubernetes • Terraform
+🚀 Cloud & DevOps Engineer
 </h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub+Profile;Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+Linux;Always+Learning+New+Technologies"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub+Profile;Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+Linux;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Harshal-gite&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Harshal-gite&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
 
 </p>
 
@@ -31,10 +27,10 @@ Cloud & DevOps Engineer • AWS • Docker • Kubernetes • Terraform
 # 👨‍💻 About Me
 
 - 🚀 Aspiring Cloud & DevOps Engineer from **Nashik, India**
-- ☁️ Learning AWS, Docker, Kubernetes, Terraform & Jenkins
-- 💻 Passionate about Linux, Automation and Cloud Infrastructure
-- 📦 Building real-world DevOps and AWS projects
-- 🎯 Goal: Become a Professional DevOps Engineer
+- ☁️ Hands-on experience with **AWS, Docker, Kubernetes, Terraform & Jenkins**
+- 🐧 Strong foundation in **Linux, Git & GitHub**
+- 📦 Building practical Cloud & DevOps projects
+- 🎯 Focused on Infrastructure Automation & CI/CD
 
 ---
 
@@ -48,7 +44,7 @@ Cloud & DevOps Engineer • AWS • Docker • Kubernetes • Terraform
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -65,3 +61,54 @@ Cloud & DevOps Engineer • AWS • Docker • Kubernetes • Terraform
 </p>
 
 ---
+
+# 🚀 Featured Projects
+
+| 🚀 Project | 🛠️ Tech Stack |
+|------------|---------------|
+| ☸️ Kubernetes Nginx Deployment | Kubernetes • Docker • YAML |
+| 🔄 Jenkins CI/CD Pipeline | Jenkins • GitHub • Docker |
+| ☁️ Terraform AWS Infrastructure | Terraform • AWS |
+| 📦 Angular App on AWS | Angular • AWS S3 • CloudFront |
+| 📚 Student Management System | Spring Boot • Angular • MySQL |
+| 🏛️ 3-Tier Student Application | Angular • Spring Boot • MySQL |
+| 🎬 Netflix Clone | React • TMDB API |
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+
+<img alt="Contribution Snake"
+src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</picture>
+
+</p>
+
+---
+
+# 📬 Contact
+
+📧 **Email:** harshalgite@outlook.com
+
+💻 **GitHub:** https://github.com/Harshal-gite
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
+
+⭐ **Thanks for visiting my profile!**
+
+</p>
