@@ -316,3 +316,113 @@ srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution
 </p>
 
 ---
+# ☁️ AWS Expertise
+
+<table>
+
+<tr>
+
+<td>✅ EC2</td>
+<td>✅ VPC</td>
+<td>✅ IAM</td>
+
+</tr>
+
+<tr>
+
+<td>✅ S3</td>
+<td>✅ EBS</td>
+<td>✅ Route 53</td>
+
+</tr>
+
+<tr>
+
+<td>✅ CloudFront</td>
+<td>✅ Load Balancer</td>
+<td>✅ Auto Scaling</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🐳 DevOps Journey
+
+```text
+Linux               ████████████████████ 90%
+
+Git & GitHub        ███████████████████ 90%
+
+Docker              ██████████████████ 85%
+
+Kubernetes          █████████████████ 80%
+
+Terraform           ████████████████ 75%
+
+Jenkins             ███████████████ 70%
+
+AWS Cloud           █████████████████ 80%
+
+Shell Scripting     ██████████████ 70%
+```
+
+---
+
+# 🌱 Currently Learning
+
+- ☁️ Advanced AWS Services
+- ☸ Kubernetes Production Deployments
+- ⚙️ Terraform Infrastructure as Code
+- 🔄 CI/CD Pipeline Automation
+- 🐳 Docker Best Practices
+- 🚀 DevOps Real-World Projects
+
+---
+
+# 📬 Contact Me
+
+<p align="center">
+
+<a href="mailto:harshalgite@outlook.com">
+
+<img src="https://img.shields.io/badge/Email-harshalgite@outlook.com-red?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+<a href="https://github.com/Harshal-gite">
+
+<img src="https://img.shields.io/badge/GitHub-Harshal--gite-black?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+---
+
+# 💡 DevOps Philosophy
+
+> **"Automate everything that can be automated.  
+Build once, deploy anywhere.  
+Keep learning, keep building, keep improving."**
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+
+</p>
+
+<h3 align="center">
+
+⭐ Thanks for visiting my GitHub Profile ⭐
+
+</h3>
+
+<p align="center">
+
+Made with ❤️ by **Harshal Sopan Gite**
+
+</p>
