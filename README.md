@@ -81,68 +81,99 @@ Goal :
 </p>
 
 ---
-# 🏆 Featured DevOps Projects
+# 🚀 Featured Projects
 
 <table>
+
 <tr>
 
 <td width="50%">
 
-### ☁️ Terraform AWS Infrastructure
+## ☸️ Kubernetes Nginx Deployment
 
-- Automated AWS Infrastructure
-- VPC
-- EC2
+Deploying and managing containerized applications using Kubernetes.
+
+**Tech Stack**
+- Kubernetes
+- Docker
+- YAML
+- Nginx
+
+**Highlights**
+- Multi-Pod Deployment
+- ReplicaSets & Deployments
+- Services (ClusterIP & NodePort)
+- ConfigMaps & Secrets
+- Persistent Volumes & PVC
+- Rolling Updates & Scaling
+
+</td>
+
+<td width="50%">
+
+## 🔄 CI/CD Pipeline using Jenkins
+
+Automated application build and deployment using Jenkins.
+
+**Tech Stack**
+- Jenkins
+- Git
+- GitHub
+- Docker
+
+**Highlights**
+- Automated Build Pipeline
+- GitHub Integration
+- Continuous Integration
+- Continuous Deployment
+- Build Automation
+- Pipeline as Code
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## ☁️ Terraform AWS Infrastructure
+
+Provisioning AWS infrastructure using Infrastructure as Code.
+
+**Tech Stack**
+- Terraform
+- AWS
+- Linux
+
+**Highlights**
+- VPC Creation
+- EC2 Instances
 - Public & Private Subnets
 - Internet Gateway
 - Route Tables
 - Security Groups
-- Infrastructure as Code (IaC)
+- Infrastructure Automation
 
 </td>
 
 <td width="50%">
 
-### ☸️ Kubernetes Projects
+## 📦 Angular App on AWS
 
-- Pods
-- ReplicaSets
-- Deployments
-- Services
-- ConfigMaps
-- Secrets
-- Persistent Volumes
-- Persistent Volume Claims
+Serverless Angular application hosted on AWS.
 
-</td>
+**Tech Stack**
+- Angular
+- AWS S3
+- CloudFront
+- Route 53
 
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🐳 Docker Projects
-
-- Docker Images
-- Docker Hub
-- Dockerfile
-- Docker Compose
-- Volume Mapping
-- Port Mapping
-
-</td>
-
-<td width="50%">
-
-### 🔄 Jenkins CI/CD
-
-- GitHub Integration
-- Pipeline
-- Automated Build
-- Deployment
-- Continuous Integration
-- Continuous Delivery
+**Highlights**
+- Static Website Hosting
+- Global Content Delivery
+- Custom Domain Mapping
+- Secure & Scalable Deployment
 
 </td>
 
@@ -152,27 +183,64 @@ Goal :
 
 <td width="50%">
 
-### ☁️ AWS Projects
+## 📚 Student Management System
 
-- EC2
-- IAM
-- S3
-- VPC
-- EBS
-- Load Balancer
-- Auto Scaling
-- Route53
+Full-stack application for managing student records.
+
+**Tech Stack**
+- Java Spring Boot
+- Angular
+- MySQL
+
+**Highlights**
+- CRUD Operations
+- Student Registration
+- Responsive Dashboard
+- Role-Based Authentication
 
 </td>
 
 <td width="50%">
 
-### 💻 Other Projects
+## 🏛️ 3-Tier Student Application
 
-- Angular App on AWS
-- Student Management System
-- 3-Tier Student Application
-- Netflix Clone
+Enterprise-style student management solution.
+
+**Architecture**
+- Frontend : Angular
+- Backend : Spring Boot
+- Database : MySQL
+
+**Highlights**
+- REST API Integration
+- Layered Architecture
+- AWS Deployment
+- High Availability Design
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+## 🎬 Netflix Clone
+
+A modern movie streaming interface inspired by Netflix.
+
+**Tech Stack**
+- React.js
+- TMDB API
+- HTML
+- CSS
+- JavaScript
+
+**Highlights**
+- Movie Search
+- Category Browsing
+- Responsive UI
+- Dynamic Content Loading
 
 </td>
 
@@ -181,49 +249,3 @@ Goal :
 </table>
 
 ---
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshal-gite&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-
-</picture>
-
----
-
-# 📫 Contact
-
-📧 **Email**
-
-harshalgite@outlook.com
-
-🌍 **Location**
-
-Nashik, Maharashtra, India
-
-💻 **GitHub**
-
-https://github.com/Harshal-gite
-
----
-
-<p align="center">
-
-⭐ Thank you for visiting my profile ⭐
-
-</p>
