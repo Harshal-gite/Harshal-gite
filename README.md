@@ -1,41 +1,67 @@
+<!-- ======================= HEADER ======================= -->
 
-<!-- Header Section with Gradient & Waving Hand -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Harshal%20Sopan%20Gite&fontSize=60&fontColor=gradient&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn&desc=Cloud%20%26%20DevOps%20Engineer&descSize=24&descColor=fff&section=header" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=HARSHAL%20SOPAN%20GITE&fontSize=50&fontColor=00F7FF&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn"/>
 </p>
 
-<!-- Profile Picture & Intro -->
 <p align="center">
-  <img src="images/profile.jpg" width="180" style="border-radius:50%; border: 4px solid #2c5364; box-shadow: 0 0 20px rgba(0,247,255,0.6);" alt="Harshal Gite"/>
+<img src="images/profile.jpg" width="250" alt="Harshal Gite"/>
 </p>
 
-<h1 align="center" style="font-family: 'Poppins', sans-serif; color: #00F7FF; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
-  👋 नमस्कार, मी Harshal आहे!
-</h1>
+<h1 align="center">Hi 👋 I'm Harshal Sopan Gite</h1>
 
-<h3 align="center" style="color: #a8b2d1;">
-  ☁️ Cloud & DevOps Engineer | 🚀 AWS | Docker | Kubernetes
+<h3 align="center">
+Cloud & DevOps Engineer • AWS • Docker • Kubernetes • Terraform
 </h3>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Infrastructure;Automating+Deployments;Solving+Complex+Challenges;Always+Learning+&+Building" alt="Typing Animation"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub+Profile;Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+Linux;Always+Learning+New+Technologies"/>
+
 </p>
 
-<!-- Stats Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harshal-gite&label=Profile%20Views&color=00F7FF&style=flat-square&icon=github" alt="Views"/>
+
+<img src="https://komarev.com/ghpvc/?username=Harshal-gite&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+# 👨‍💻 About Me
 
-<div align="center">
+- 🚀 Aspiring Cloud & DevOps Engineer from **Nashik, India**
+- ☁️ Learning AWS, Docker, Kubernetes, Terraform & Jenkins
+- 💻 Passionate about Linux, Automation and Cloud Infrastructure
+- 📦 Building real-world DevOps and AWS projects
+- 🎯 Goal: Become a Professional DevOps Engineer
 
-```yaml
-Name      : Harshal Sopan Gite
-Role      : Cloud & DevOps Engineer
-Location  : 📍 Nashik, Maharashtra, India
-Email     : 📧 harshalgite@outlook.com
-Status    : 🚀 Always Learning & Building
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,terraform,jenkins,git,github,bash,vscode,nginx,mysql"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harshal-gite&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshal-gite&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal-gite&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
