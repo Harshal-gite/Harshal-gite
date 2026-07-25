@@ -81,3 +81,149 @@ Goal :
 </p>
 
 ---
+# 🏆 Featured DevOps Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### ☁️ Terraform AWS Infrastructure
+
+- Automated AWS Infrastructure
+- VPC
+- EC2
+- Public & Private Subnets
+- Internet Gateway
+- Route Tables
+- Security Groups
+- Infrastructure as Code (IaC)
+
+</td>
+
+<td width="50%">
+
+### ☸️ Kubernetes Projects
+
+- Pods
+- ReplicaSets
+- Deployments
+- Services
+- ConfigMaps
+- Secrets
+- Persistent Volumes
+- Persistent Volume Claims
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🐳 Docker Projects
+
+- Docker Images
+- Docker Hub
+- Dockerfile
+- Docker Compose
+- Volume Mapping
+- Port Mapping
+
+</td>
+
+<td width="50%">
+
+### 🔄 Jenkins CI/CD
+
+- GitHub Integration
+- Pipeline
+- Automated Build
+- Deployment
+- Continuous Integration
+- Continuous Delivery
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ☁️ AWS Projects
+
+- EC2
+- IAM
+- S3
+- VPC
+- EBS
+- Load Balancer
+- Auto Scaling
+- Route53
+
+</td>
+
+<td width="50%">
+
+### 💻 Other Projects
+
+- Angular App on AWS
+- Student Management System
+- 3-Tier Student Application
+- Netflix Clone
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshal-gite&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</picture>
+
+---
+
+# 📫 Contact
+
+📧 **Email**
+
+harshalgite@outlook.com
+
+🌍 **Location**
+
+Nashik, Maharashtra, India
+
+💻 **GitHub**
+
+https://github.com/Harshal-gite
+
+---
+
+<p align="center">
+
+⭐ Thank you for visiting my profile ⭐
+
+</p>
