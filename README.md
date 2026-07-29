@@ -43,6 +43,26 @@
 </p>
 
 ---
+---
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+
+<img alt="Contribution Snake"
+src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</picture>
+
+</p>
+---
 
 # 📊 GitHub Stats
 
@@ -62,40 +82,64 @@
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| 🚀 Project | 🛠️ Tech Stack |
-|------------|---------------|
-| ☸️ Kubernetes Nginx Deployment | Kubernetes • Docker • YAML |
-| 🔄 Jenkins CI/CD Pipeline | Jenkins • GitHub • Docker |
-| ☁️ Terraform AWS Infrastructure | Terraform • AWS |
-| 📦 Angular App on AWS | Angular • AWS S3 • CloudFront |
-| 📚 Student Management System | Spring Boot • Angular • MySQL |
-| 🏛️ 3-Tier Student Application | Angular • Spring Boot • MySQL |
-| 🎬 Netflix Clone | React • TMDB API |
 
----
+✅ Kubernetes Nginx Deployment
 
-# 🐍 Contribution Snake
+✅ CI/CD Pipeline using Jenkins
 
-<p align="center">
+✅ Terraform AWS Infrastructure
+ 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<picture>
+## 🚀 Project 
 
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+ ### [📦 Project Angular App AWS](https://github.com/abhipraydhoble/Project-Angular-App-AWS)
+A serverless Angular application deployed on AWS infrastructure.
 
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+- **Tech Stack**: Angular, AWS S3, CloudFront, Route 53
+- **Features**:
+- Scalable frontend hosted on AWS S3
+- Secure domain mapping using Route 53
+- CDN integration via CloudFront for faster delivery
 
-<img alt="Contribution Snake"
-src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-</picture>
+### [📚 Project Student App](https://github.com/abhipraydhoble/Project-Student-App)
+A student management system to handle registrations, grades, and profiles.
 
-</p>
+- **Tech Stack**: Java Spring Boot, Angular
+- **Features**:
+- CRUD operations for student records
+- Responsive design for seamless mobile use
+- Role-based access for students and administrators
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+### [🏛️ Project 3-Tier Student App](https://github.com/abhipraydhoble/Project-3-tier-Student-App)
+A robust 3-tier architecture for a student management application.
+
+- **Architecture**:
+- **Frontend**: Angular
+- **Backend**: Java Spring Boot
+- **Database**: MySQL
+- **Features**:
+- Secure API interactions
+- Centralized database with scalable backend
+- Deployed on AWS with load balancing and high availability
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+### [🎥 Netflix Clone](https://github.com/abhipraydhoble/netflix)
+A Netflix-inspired application with movie browsing and streaming features.
+
+- **Tech Stack**: React.js, TMDB API
+- **Features**:
+- Browse and search for movies by genre
+- Modern, responsive design
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> 
 
 # 📬 Contact
 
