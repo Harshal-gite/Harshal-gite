@@ -127,6 +127,8 @@ A Netflix-inspired application with movie browsing and streaming features.
 📧 **Email:** harshalgite@outlook.com
 
 💻 **GitHub:** https://github.com/Harshal-gite
+  **linkdin ** www.linkedin.com/in/
+harshalgite
 
 ---
 
